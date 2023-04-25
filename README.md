@@ -1,18 +1,18 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - Blog Website
 
-Submitted by: **Your Name Here**
+Submitted by: Joseph Mecherikunnel
 
-This web app: **insert description**
+This web app: This website is a blog website that allows for user authentication and creation of blog posts.
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **A create form that allows the user to create posts**
-- [ ] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
-- [ ] **A home feed displaying previously created posts**
+- [X] **A create form that allows the user to create posts**
+- [X] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
+- [X] **A home feed displaying previously created posts**
 - [ ] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
 - [ ] **Clicking on a post shall direct the user to a new page for the selected post**
 - [ ] **Users can sort posts by either their created time or upvotes count**
@@ -41,10 +41,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='finalprojectdemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
